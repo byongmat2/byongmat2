@@ -1,0 +1,74 @@
+{
+    "name": "Global uniques", 
+    "uniques": [
+        "[-15]% growth [in all cities]", "[-75]% growth [in all cities] <when between [-10] and [0] Happiness>",
+        "Nullifies Growth [in all cities] <when below [-10] Happiness>",
+        "[-50]% [Production] [in all cities] <when below [-10] Happiness>",
+        "[-33]% Strength <for [All] units> <when below [-10] Happiness>",
+        "Cannot build [Settler] units <when below [-10] Happiness>",
+        "Rebel units may spawn <when below [-10] Happiness>",
+        "[+100]% Production when constructing [Palace] buildings [in all cities] <when below [-10] Happiness>",
+        "[+10]% Culture cost of adopting new Policies",
+        "[+15]% growth [in all cities] <in [Fresh water] tiles>",
+        "[+25]% growth [in all cities] <during We Love The King Day>",
+        "[+65]% maintenance on road & railroads",
+        "[+5]% maintenance on road & railroads <starting from the [Classical era]>",
+        "[+5]% maintenance on road & railroads <starting from the [Medieval era]>",
+        "[+5]% maintenance on road & railroads <starting from the [Renaissance era]>",
+        "[+5]% maintenance on road & railroads <starting from the [Modern era]>",
+        "[+5]% maintenance on road & railroads <starting from the [Atomic era]>",
+        "[+5]% maintenance on road & railroads <starting from the [Information era]>",
+        "[-15]% maintenance cost for buildings [in all cities]",
+        "[+5]% maintenance cost for buildings [in all cities] <starting from the [Classical era]>",
+        "[+5]% maintenance cost for buildings [in all cities] <starting from the [Medieval era]>",
+        "[+5]% maintenance cost for buildings [in all cities] <starting from the [Renaissance era]>",
+        "[+5]% maintenance cost for buildings [in all cities] <starting from the [Modern era]>",
+        "[+5]% maintenance cost for buildings [in all cities] <starting from the [Atomic era]>",
+        "[+5]% maintenance cost for buildings [in all cities] <starting from the [Information era]>",
+        "[+65]% maintenance costs <for [Military] units>",
+        "[+5]% maintenance costs <for [Military] units> <starting from the [Classical era]>",
+        "[+5]% maintenance costs <for [Military] units> <starting from the [Medieval era]>",
+        "[+5]% maintenance costs <for [Military] units> <starting from the [Renaissance era]>",
+        "[+5]% maintenance costs <for [Military] units> <starting from the [Industrial era]>",
+        "[+5]% maintenance costs <for [Military] units> <starting from the [Modern era]>",
+        "[+5]% maintenance costs <for [Military] units> <starting from the [Atomic era]>",
+        "[+5]% maintenance costs <for [Military] units> <starting from the [Information era]>",
+        "[+25]% maintenance costs <for [Mounted] units>",
+        "[+50]% maintenance costs <for [Water] units>",
+        "[+75]% maintenance costs <for [Air] units>",
+        "[+75]% maintenance costs <for [Armored] units>",
+        "[+75]% maintenance costs <for [Helicopter] units>",
+        "[+125]% maintenance costs <for [Atomic Bomb] units>",
+        "[+125]% maintenance costs <for [Nuclear Missile] units>",
+        "[+200]% maintenance costs <for [Giant Death Robot] units>",
+        "[Great General] is earned [-75]% faster <when not at war>",
+        "Cities are razed [2] times as fast",
+        "Earn [10]% of the damage done to [Military] units as [Gold] <for [Melee] units>",
+        "[Gold] cost of purchasing [Landsknecht] units [-50]%",
+        "May buy [Shrine] buildings with [Faith] [in all cities]",
+        "May buy [Temple] buildings with [Faith] [in all cities]",
+        "[Faith] cost of purchasing [Shrine] buildings [-75]%",
+        "[Faith] cost of purchasing [Temple] buildings [-50]%",
+        "[+50]% [Production] [in all cities] <for [City-States]>",
+        "[+50]% [Gold] [in all cities] <for [City-States]>",
+        "[+50]% [Faith] [in all cities] <for [City-States]>",
+        "[+1 Faith, +1 Culture] per [6] population [in all cities] <for [City-States]>",
+        "Gain [250] [Gold] <upon declaring war with a major Civilization> <for [City-States]>",
+        "May buy [Swiss Guard] units with [Faith] for [2] times their normal Production cost",
+        "[-10]% Unhappiness from [Population] [in all cities] <during a Golden Age>",
+        "[-1] Sight <for [Embarked] units>"]
+    
+        // TODO: Implement the uniques below
+        // "[+20]% [Culture] [in all cities] <during a golden age>",
+        // "[+20]% [Production] [in all cities] <during a golden age>",
+    
+        // "[+10]% growth [in all cities] <during We Love The King Day>",
+    
+        // "Nullifies All Yield <while is in resistance>",
+        
+        // "[-25]% [Science] [in pupetted cities]" -- Imo cityFilters should ideally become conditionals anyway
+        // "[-25]% [Culture] [in pupetted cities]"
+        
+        // "[+20]% [Production] [in cities connected via railroad]"
+        // something something unit supply
+}
