@@ -435,7 +435,7 @@
 		"hurryCostModifier": 25,
 		"science": 1,
 		"faith": 2,
-		"uniques": ["[Gold] cost of purchasing items in cities [-5]%"]
+		"uniques": ["[Gold] cost of purchasing items in cities [-10]%"]
 		"requiredBuilding": "Shrine",
 		"requiredTech": "Philosophy"
 	},
