@@ -1202,7 +1202,13 @@
 		"outerColor": [214,145,19],
 		"innerColor": [90,0,10],
 		"uniqueName": "River Warlord",
-		"uniques": ["[Land] units gain the [Amphibious] promotion", "[+1 Production, +3 Gold] from every [Mine]", "May buy [Gold] buildings with [Faith] for [2] times their normal Production cost"],
+		"uniques": ["[Land] units gain the [Amphibious] promotion",             
+			"[-75]% City-State Influence degradation",
+                        "City-State Influence recovers at twice the normal rate"
+                        "[+1 Food, +1 Production, +3 Gold, +1Faith] from every [Mine]",
+                        "[+1 Food, +1 Production, +3 Gold, +1Faith] from every [Farm]",
+                        "[-75]% unhappiness from the number of cities",
+                        "[-75]% Unhappiness from [Population] [in all cities]", "May buy [Gold] buildings with [Faith] for [2] times their normal Production cost"],
 		"cities": ["Gao","Tombouctu","Jenne","Taghaza","Tondibi","Kumbi Saleh","Kukia","Walata","Tegdaoust","Argungu","Gwandu",
 			"Kebbi","Boussa","Motpi","Bamako","Wa","Kayes","Awdaghost","Ouadane","Dakar","Tadmekket","Tekedda","Kano",
 			"Agadez","Niamey","Torodi","Ouatagouna","Dori","Bamba","Segou"]
